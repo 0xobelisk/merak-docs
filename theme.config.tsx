@@ -5,8 +5,8 @@ import { useConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <img
-    src="/dubhe-logo.svg"
-    alt="Dubhe Engine Logo"
+    src="/merak-logo.svg"
+    alt="Merak Protocol Logo"
     style={{ height: '32px' }}
   />,
   project: {

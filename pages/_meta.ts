@@ -1,6 +1,6 @@
 export default {
 	index: 'Introduction',
-	dubhe: 'Dubhe',
+	merak: 'Merak',
 	faq: 'FAQ',
 	contribute: 'Contribute',
 	community: {
