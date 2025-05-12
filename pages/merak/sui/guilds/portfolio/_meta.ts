@@ -1,3 +1,3 @@
 export default {
-  "migration": "Migration",
+  "portfolio": "Portfolio",
 }

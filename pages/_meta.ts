@@ -1,8 +1,8 @@
 export default {
 	index: 'Introduction',
 	merak: 'Merak',
-	faq: 'FAQ',
-	contribute: 'Contribute',
+	// faq: 'FAQ',
+	// contribute: 'Contribute',
 	community: {
 		title: 'Community ↗',
 		type: 'page',
